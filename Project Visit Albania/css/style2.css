@@ -1,0 +1,9 @@
+/* Pozicionim */
+
+.bigDiv {
+    margin: 50px 0;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    flex-wrap: wrap;
+}
